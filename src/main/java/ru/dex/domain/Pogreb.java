@@ -74,7 +74,7 @@ public class Pogreb {
 
     private int foo(int integer) {
         if (integer == 100) {
-            throw new RuntimeException("FUUUUUUUUUUK!!!!!!");
+            throw new RuntimeException("FUUUUUUUUUUUUUUUUUK!!!!!!!!!! JAR JAR BINGS");
         }
         integer++;
         return foo(integer);
